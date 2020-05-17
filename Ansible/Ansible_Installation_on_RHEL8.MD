@@ -48,4 +48,4 @@ Validation test:
 
 2. Run ansible command as ansadmin user it should be successful (Master)
 
-ansible all -m ping
+# ansible all -m ping
